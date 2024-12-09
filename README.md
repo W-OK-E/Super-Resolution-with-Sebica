@@ -9,4 +9,4 @@ Training the lightweight model Sebica on X-Ray Images to test the application of
 The model was trained on 2000 HR and the corresponding LR counterparts, tried to achieve a upscaling factor of 4x, the results:
 ![420](https://github.com/user-attachments/assets/ce42415d-e0b6-49f8-aa86-4bb1b1eb9ec7)
 
-Now obviously this is marred by the same issues in super resolution, the reconstructed images have color fringing and abberation, that will be updated in a future model.
+Now obviously this is marred by the same issues in super resolution, the reconstructed images have color fringing and abberation, something that I am trying to resolve as a part of my reasearch project.
