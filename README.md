@@ -7,5 +7,4 @@ Training the lightweight model Sebica on X-Ray Images to test the application of
 - Step 4: Run the model via the command: python3 infer.py
 ## Test Results
 The model was trained on 2000 HR and the corresponding LR counterparts, tried to achieve a upscaling factor of 4x, the results:
-
-/home/summer/Super-Resolution/Super-Resolution-with-Sebica/out_images/111.jpeg
+![420](https://github.com/user-attachments/assets/ce42415d-e0b6-49f8-aa86-4bb1b1eb9ec7)
