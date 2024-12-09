@@ -1,0 +1,13 @@
+# Ignore datasets
+dataset/
+*.png
+
+# Ignore checkpoints and pre-trained models
+
+# Ignore large log files
+lightning_logs/
+*.ckpt
+
+# Ignore virtual environments
+out_images/
+*.png
